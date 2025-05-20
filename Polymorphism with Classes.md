@@ -47,4 +47,4 @@ for func in (obj_beans,obj_mango):
 ![image](https://github.com/user-attachments/assets/2a50a3e8-3cee-455c-9ade-f6ed33b9411f)
 
 ## Result
-Thus,the python program To create two specific classes — `Beans` and `Mango`. Then, create a **generic function** that can accept any object and determine its **type** (Fruit or Vegetable) and **color**, using polymorphism is executed successfully
+Thus,the python program To create two specific classes — `Beans` and `Mango`. Then, create a **generic function** that can accept any object and determine its **type** (Fruit or Vegetable) and **color**, using polymorphism is executed successfully.
